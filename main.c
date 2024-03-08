@@ -9,6 +9,7 @@
 #include<unistd.h> // read(), write(), close()
 
 
+
 /*
  * The following cases are using functions that are 
  * known to be dangerous, if used wrong. 
